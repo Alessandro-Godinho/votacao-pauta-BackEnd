@@ -9,6 +9,8 @@ Nesse mini projeto foram utilizadas algumas tecnologias usadas como:
 <li>SWAGGER</li>
 <li>JUNIT E MOCKITO</li>
 <li>API REST</li>
+<li>Deploy no AWS Elasticbeanstalk</li>
+
 
 
 
